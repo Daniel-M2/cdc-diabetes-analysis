@@ -40,5 +40,5 @@ Data Summary:
 ## Reference
 - [Tableau Dashboard](https://public.tableau.com/views/Milestone1_17623572447880/Demographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Diabetes Prevalence in the US](https://www.cdc.gov/diabetes/php/data-research/index.html)
-- [Prevalence calculation]('https://www.nimh.nih.gov/health/statistics/what-is-prevalence')
+- [Prevalence calculation](https://www.nimh.nih.gov/health/statistics/what-is-prevalence)
 - [AGE5YR Codebook](https://www.icpsr.umich.edu/web/NAHDAP/studies/34085/datasets/0001/variables/AGEG5YR?archive=NAHDAP)
